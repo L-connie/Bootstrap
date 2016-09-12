@@ -1,63 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="134b4036-3213-4bc2-8b28-fef3c1b5896d" name="Default" comment="lgl">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/QQ.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/QQ1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/bootstrap-datetimepicker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/bootstrap-docs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/bootstrap-form-builder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/bootstrap-switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/bootstrap-wysiwyg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/bsie.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/chart.js.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/cikonss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/codeguide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/expo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/fair.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/flat-ui.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/font-awesome.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/git-guide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/google-bootstrap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/grumblejs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/gruntjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/gulpjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/h5bp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/headroom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/icheck.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/jquery-ui-bootstrap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/jquery.pin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/jqueryapi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/jt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/layoutit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/lesscss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/lodash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/messenger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/metro-ui-css.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/mid-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/opencdn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/preboot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/responsive-nav.js.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/sco.js.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/simpleicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/stickup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/underscore.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/unslider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/w3schools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/websafecolors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/weibo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/weibo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/images/zeptojs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/lgl.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lgl/js/js.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/liu/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lgl/index.html" afterPath="$PROJECT_DIR$/lgl/index.html" />
+    <list default="true" id="134b4036-3213-4bc2-8b28-fef3c1b5896d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lgl.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -81,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lgl/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="200">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -237,9 +182,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lgl" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/cmd/git.exe" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -321,7 +266,7 @@
       <workItem from="1473391798239" duration="28789000" />
       <workItem from="1473469263073" duration="25662000" />
       <workItem from="1473641922019" duration="643000" />
-      <workItem from="1473642595409" duration="853000" />
+      <workItem from="1473642595409" duration="2190000" />
     </task>
     <task id="LOCAL-00001" summary="lgl">
       <created>1473391969966</created>
@@ -344,11 +289,25 @@
       <option name="project" value="LOCAL" />
       <updated>1473393892053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lgl">
+      <created>1473644483768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1473644483768</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1473645627585</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1473645627585</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55947000" />
+    <option name="totallyTimeSpent" value="57284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -385,7 +344,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lgl" />
-    <option name="LAST_COMMIT_MESSAGE" value="lgl" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -541,8 +501,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lgl/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="200">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
